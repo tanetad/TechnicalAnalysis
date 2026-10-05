@@ -2,20 +2,6 @@
 
 A Shiny-based R application for technical analysis and stock market visualization using real-time data from Yahoo Finance.
 
-## Project Structure
-
-```
-BDA400-Assignment6/
-│
-├── app.R                    # Main Shiny application
-├── README.md               # This file
-├── cover_page.pdf          # Assignment cover page
-├── data/
-│   └── sample_data.csv     # Sample stock data
-└── screenshots/
-    └── dashboard.png       # Application dashboard screenshot
-```
-
 ## Features
 
 - **Stock Data Retrieval**: Fetch real-time stock data from Yahoo Finance
